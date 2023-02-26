@@ -4,8 +4,8 @@ from email.message import EmailMessage
 
 print("Hello to File Integrity Monitor, please enter the file path of the thing you want to monitor")
 filePath = input("Enter file path(ex. /home/downloads/passwords): ")
-usrEmail = input("Enter your email")
-usrPasswd = input("Enter your password that you set up in your email app password")
+usrEmail = input("Enter your email: ")
+usrPasswd = input("Enter your password that you set up in your email app password: ")
 print("Make sure two factor authentication is on")
 def getHash(filePath):
     md5 = hashlib.md5()
