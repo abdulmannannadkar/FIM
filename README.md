@@ -1,15 +1,5 @@
 # FIM
 
-  █████▒██▓ ███▄ ▄███▓
-▓██   ▒▓██▒▓██▒▀█▀ ██▒
-▒████ ░▒██▒▓██    ▓██░
-░▓█▒  ░░██░▒██    ▒██ 
-░▒█░   ░██░▒██▒   ░██▒
- ▒ ░   ░▓  ░ ▒░   ░  ░
- ░      ▒ ░░  ░      ░
- ░ ░    ▒ ░░      ░   
-        ░         ░   
-                      
 
 FIM ~ File Integirity Monitor
 A tool that can protect your files and data from bad hands.
