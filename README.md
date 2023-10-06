@@ -9,4 +9,4 @@ Get started in just 2 steps:
 
     And it's DONE!
 
-Note: Make sure two factor authentication is 'ON'
+Note: Make sure two factor authentication is 'ON'on Gmail.
